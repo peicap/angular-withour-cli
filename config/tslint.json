@@ -13,7 +13,7 @@
                 true,
                 "attribute",
                 [
-                      "tyn"
+                      "sel"
                 ],
                 "camelCase"
           ],
@@ -21,7 +21,7 @@
                 true,
                 "element",
                 [
-                      "tyn"
+                      "sel"
                 ],
                 "kebab-case"
           ],
