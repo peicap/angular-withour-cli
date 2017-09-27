@@ -1,7 +1,5 @@
 # Angular Without CLI   
-> This is a project assigned by JaeHo Song | (thruthesky)['https://github.com/thruthesky']
-
-A brief description of your project, what it is used for.
+This is a project assigned by JaeHo Song | (thruthesky)['https://github.com/thruthesky']
 
 ## Installing / Getting started
 
