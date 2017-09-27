@@ -14,7 +14,7 @@ import { HomeComponent } from './route/home/home.component'
         BrowserModule,
         FormsModule,
         HttpModule,
-        APP_ROUTING
+        APP_ROUTING,
     ],
     declarations: [
         AppComponent,
