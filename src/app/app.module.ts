@@ -3,7 +3,6 @@ import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import { AppComponent } from './app.component';
-
 import { APP_ROUTING } from './app.routing';
 
 // Import Components Below
@@ -14,10 +13,12 @@ import { HomeComponent } from './route/home/home.component'
     imports: [
         BrowserModule,
         FormsModule,
-        HttpModule
+        HttpModule,
+        APP_ROUTING
     ],
     declarations: [
-        AppComponent
+        AppComponent,
+        HomeComponent
     ],
     bootstrap: [
         AppComponent
