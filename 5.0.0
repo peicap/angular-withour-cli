@@ -1,0 +1,7 @@
+angular-without-cli@1.0.0 C:\Users\withcenter\Desktop\pei\angular-without-cli
++-- ajv@5.2.3 
+`-- node-sass@4.5.3
+  `-- request@2.81.0
+    `-- har-validator@4.2.1
+      `-- ajv@4.11.8 
+
